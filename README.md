@@ -36,9 +36,9 @@ Não é necessário nenhuma instalação na maquina, basta apenas criar um noteb
 # Como usar
 Para a execução do projeto como descrito acima, após a criação do notebook no Google Colab, deverá fazer a importação do arquivo TDFinal.ipynb, após isso o notebook ja irá trazer em tela todo o código.
 Antes da execução porém deverá importar os arquivos csv também:
--informacoes_carro.csv
--posto.csv
--abastecimentossimexc.csv
+informacoes_carro.csv,
+posto.csv,
+abastecimentossimexc.csv
 
 
 
