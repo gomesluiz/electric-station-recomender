@@ -8,14 +8,11 @@ Neste contexto surge o problema de motoristas terem um sistema recomendador, bas
    * [Sistema Recomendador](#SistemaRecomendador)
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Instalação](#Instalacao)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Tabela de variaveis](#tabela-de-variaves)
+   * [Tabela de Funcoes](#tabela-de-funcoes)
+   * [Resultados](#resultados)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -34,5 +31,15 @@ Também encontra-se neste repositório 1 arquivo .pdf:
 -artigoFinal.pdf
 
 #Instalação
+Não é necessário nenhuma instalação na maquina, basta apenas criar um notebook no Google Colab.
+
+#Como usar
+Para a execução do projeto como descrito acima, após a criação do notebook no Google Colab, deverá fazer a importação do arquivo TDFinal.ipynb, após isso o notebook ja irá trazer em tela todo o código.
+Antes da execução porém deverá importar os arquivos csv também:
+-informacoes_carro.csv
+-posto.csv
+-abastecimentossimexc.csv
+
+
 
 
