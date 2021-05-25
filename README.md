@@ -19,7 +19,7 @@ Neste contexto surge o problema de motoristas terem um sistema recomendador, bas
 # Sobre
 Este repositório contém os arquivos para execução do projeto desenvolvido em Trabalho de Diplomação juntamente com o artigo em formato .pdf
 
-#Tabela de Conteúdo
+# Tabela de Conteúdo
 Encontra-se nesse repositório 3 arquivos .csv são eles:
 -informacoes_carro.csv
 -posto.csv
@@ -30,10 +30,10 @@ Encontra-se também 1 arquivo .ipynb
 Também encontra-se neste repositório 1 arquivo .pdf:
 -artigoFinal.pdf
 
-#Instalação
+# Instalação
 Não é necessário nenhuma instalação na maquina, basta apenas criar um notebook no Google Colab.
 
-#Como usar
+# Como usar
 Para a execução do projeto como descrito acima, após a criação do notebook no Google Colab, deverá fazer a importação do arquivo TDFinal.ipynb, após isso o notebook ja irá trazer em tela todo o código.
 Antes da execução porém deverá importar os arquivos csv também:
 -informacoes_carro.csv
