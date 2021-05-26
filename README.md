@@ -223,27 +223,31 @@ Após essa montagem da matriz a rede neural também atribui pesos a essas notas 
 ![alt text](https://github.com/Gabrielgsn30/SistemaRecomendador/blob/main/img/fig4.png)
 
 Todas as etapas da figura:
-	1
+
+
+	1.Leitura dos arquivos.csv
 	
-	2
+	2.Pré-processamento de abastecimento
 	
-	3
+	3.Pré-processamento da localização do abastecimento
 	
-	4
+	4.Pré-processamento da afinidade do motorista
 	
-	5
-		5.1
+	5.Entrando na Rede Neural
+		5.1.Pré-processamento da Rede Neural
 		
-		5.2
+		5.2.Transformação dos dados
 		
-		5.3
-	6.
+		5.3.Geração do Modelo
+		5.4.Modelo pronto(treinado e testado)
 	
-	7.
+	6.Requisião do usuário
 	
-	8.
+	7.Recomendação baseada em afinidade
 	
-	9.
+	8.Recomendação baseada na localização Atual
+	
+	9.Recomendação baseada na filtragem colaborativa(Rede Neural)
   
 # Resultados
 
