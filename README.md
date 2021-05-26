@@ -5,12 +5,12 @@ Com a crescente disseminação de informações e dados, muito em decorrer do av
 Neste contexto surge o problema de motoristas terem um sistema recomendador, baseado na sua localização e outras preferências. Na cidade de Poços de Caldas, está inserido o projeto Poços + Inteligente, onde, um dos seus pontos, será a implantação de postos de abastecimentos, para carros elétricos, e assim surgiu a necessidade da recomendação para motoristas de carros elétricos, que por meio de um aplicativo haverá um Sistema Recomendador baseado em determinadas regras e preferências para se fazer a recomendação.
 
 <!--ts-->
-   * [Sistema Recomendador](#SistemaRecomendador)
+   * [Sistema Recomendador](#Sistema Recomendador)
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#Instalacao)
+   * [Instalacao](#Instalacao)
    * [Como usar](#como-usar)
-   * [Tabela de variaveis](#tabela-de-variaves)
+   * [Tabela de variaveis](#tabela-de-variaveis)
    * [Tabela de Funcoes](#tabela-de-funcoes)
    * [Modelo](#modelo)
    * [Resultados](#resultados)
@@ -32,7 +32,7 @@ TDFinal.ipynb
 Também encontra-se neste repositório 1 arquivo .pdf:
 artigoFinal.pdf
 
-# Instalação
+# Instalacao
 Não é necessário nenhuma instalação na maquina, basta apenas criar um notebook no Google Colab.
 
 # Como usar
