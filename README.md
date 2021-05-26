@@ -212,8 +212,11 @@ Pré-processamento de Afinidade – É verificado veículo por veículo e calcul
 Após todos os pré-processamentos dos dados o arquivo está pronto para ser feito as recomendações, que no final teremos três tipos de recomendações:
 
 A primeira é baseada na afinidade do motorista com determinado posto, ou seja, aquele posto que ele mais abasteceu.
+
 A segunda recomendação foi desenvolvida em Deep Learning e utilizando a filtragem colaborativa para a recomendação, baseado na similaridade de usuários com as avaliações dadas a cada posto.
+
 A terceira é baseada na fórmula de Haversine onde se calcula a distância entre pontos no globo Terrestre, essa fórmula me traz o posto mais próximo do motorista, essa recomendação também resolve um dos problemas da filtragem colaborativa que é o \textit{Cold Start}.Através dela é possível recomendar algum posto para um usuário novo e também através dela é possível recomendar um posto que ainda não possua recomendação.
+
 A recomendação utilizando a filtragem colaborativa, por ela pertencer a uma rede neural, essa rede precisa de um pré-processamento próprio onde, é feito a matriz de fatoração e no nosso caso as linhas dentro dessa matriz são os usuários e as colunas são os postos, dentro da célula é o valor da avaliação.
 Após essa montagem da matriz a rede neural também atribui pesos a essas notas para conseguir encontrar a similaridade, após isso a rede faz o treinamento e teste, então o modelo fica pronto, somente após o modelo estar pronto que é possível recomendar os postos para determinado usuário.
 
