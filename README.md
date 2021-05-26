@@ -40,6 +40,20 @@ informacoes_carro.csv,
 posto.csv,
 abastecimentossimexc.csv
 
+# Tabela de variaveis
+Alimentos | Preço
+--------- | ------:
+Arroz     | R$ 10
+Feijão    | R$ 8
+Batata    | R$ 7
+Macarrão  | R$ 8
+
+# Tabela de Funcoes
+
+# Resultados
+
+#Tecnologias
+
 
 
 
