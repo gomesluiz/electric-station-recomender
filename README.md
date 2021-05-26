@@ -12,6 +12,7 @@ Neste contexto surge o problema de motoristas terem um sistema recomendador, bas
    * [Como usar](#como-usar)
    * [Tabela de variaveis](#tabela-de-variaves)
    * [Tabela de Funcoes](#tabela-de-funcoes)
+   * [Modelo](#modelo)
    * [Resultados](#resultados)
    * [Tecnologias](#tecnologias)
 <!--te-->
@@ -199,6 +200,8 @@ def test(model):
     print("test loss %.3f " % loss.item()) 
 ```
 E por fim a funcao de teste que é utilizada dentro da funcao de treinamento como pode observar a ultima linha, é ela quem testa e nos dá o percentual de perda.
+
+# Modelo
 
 # Resultados
 
