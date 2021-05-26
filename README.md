@@ -83,14 +83,10 @@ posto                      | Recebe o posto com maior afinidade daquele motorist
 prox                       | Variavel que calcula o posto mais proximo da localizacao
 
 # Tabela de Funcoes
-Funcoes | Descricao
---------- | ------:
 def converterGrausParaRad(numero):
     rad = (numero/180)*math.pi
-    return rad    | R$ 10
-Feijão    | R$ 8
-Batata    | R$ 7
-Macarrão  | R$ 8
+    return rad  
+    
 # Resultados
 
 # Tecnologias
