@@ -202,7 +202,7 @@ def test(model):
 E por fim a funcao de teste que é utilizada dentro da funcao de treinamento como pode observar a ultima linha, é ela quem testa e nos dá o percentual de perda.
 
 # Modelo
-
+![alt text](https://github.com/[Gabrielgsn30]/[SistemaRecomendador]/img/fig4.png?raw=true)
 # Resultados
 
 # Tecnologias
