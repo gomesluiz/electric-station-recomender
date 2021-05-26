@@ -275,9 +275,3 @@ Para postos sem informações de abastecimento, neste caso o posto 25
 	Usuário ID: 42
 	Usuário sem histórico para recomendação por filtragem colaborativa e por afinidade, será recomendado o posto mais próximo
 	Posto mais proximo é: 25
-
-# Tecnologias
-
-
-
-
