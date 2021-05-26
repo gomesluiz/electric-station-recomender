@@ -224,16 +224,25 @@ Após essa montagem da matriz a rede neural também atribui pesos a essas notas 
 
 Todas as etapas da figura:
 	1
+	
 	2
+	
 	3
+	
 	4
+	
 	5
 		5.1
+		
 		5.2
+		
 		5.3
 	6.
+	
 	7.
+	
 	8.
+	
 	9.
   
 # Resultados
