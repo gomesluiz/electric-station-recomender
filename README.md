@@ -7,7 +7,7 @@ Neste contexto surge o problema de motoristas terem um sistema recomendador, bas
 <!--ts-->
    * [Sistema Recomendador](#SistemaRecomendador)
    * [Sobre](#Sobre)
-   * [Tabela de Conteúdo](#tabela-de-conteudo)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#Instalacao)
    * [Como usar](#como-usar)
    * [Tabela de variaveis](#tabela-de-variaves)
@@ -20,7 +20,7 @@ Neste contexto surge o problema de motoristas terem um sistema recomendador, bas
 # Sobre
 Este repositório contém os arquivos para execução do projeto desenvolvido em Trabalho de Diplomação juntamente com o artigo em formato .pdf
 
-# Tabela de Conteúdo
+# Tabela de Conteudo
 Encontra-se nesse repositório 3 arquivos .csv são eles:
 informacoes_carro.csv
 posto.csv
