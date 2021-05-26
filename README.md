@@ -5,7 +5,7 @@ Com a crescente disseminação de informações e dados, muito em decorrer do av
 Neste contexto surge o problema de motoristas terem um sistema recomendador, baseado na sua localização e outras preferências. Na cidade de Poços de Caldas, está inserido o projeto Poços + Inteligente, onde, um dos seus pontos, será a implantação de postos de abastecimentos, para carros elétricos, e assim surgiu a necessidade da recomendação para motoristas de carros elétricos, que por meio de um aplicativo haverá um Sistema Recomendador baseado em determinadas regras e preferências para se fazer a recomendação.
 
 <!--ts-->
-   * [Sistema Recomendador](#Sistema Recomendador)
+   * [Sistema Recomendador](#Sistema-Recomendador)
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalacao](#Instalacao)
