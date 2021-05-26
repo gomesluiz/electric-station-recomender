@@ -85,7 +85,9 @@ prox                       | Variavel que calcula o posto mais proximo da locali
 # Tabela de Funcoes
 Funcoes | Descricao
 --------- | ------:
-Arroz     | R$ 10
+def converterGrausParaRad(numero):
+    rad = (numero/180)*math.pi
+    return rad    | R$ 10
 Feijão    | R$ 8
 Batata    | R$ 7
 Macarrão  | R$ 8
