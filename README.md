@@ -41,9 +41,9 @@ posto.csv,
 abastecimentossimexc.csv
 
 # Tabela de variaveis
-Variaveis | Descricao
---------- | ------:
-Arroz     | R$ 10
+Variaveis    | Descricao
+------------ | ---------------------------------------------------------:
+raioDaTerra  | Utilizada para a funcao que realiza calculos de distancia
 Feijão    | R$ 8
 Batata    | R$ 7
 Macarrão  | R$ 8
