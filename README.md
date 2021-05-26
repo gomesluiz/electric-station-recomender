@@ -84,14 +84,10 @@ prox                       | Variavel que calcula o posto mais proximo da locali
 
 # Tabela de Funcoes
 
-```def converterGrausParaRad(numero):
+```python
+def converterGrausParaRad(numero):
     rad = (numero/180)*math.pi
     return rad  
-```
-```python
-def post_detail(request, pk):
-    post = get_object_or_404(Post, pk=pk)
-    return render(request, 'blog/post_detail.html', {'post': post})
 ```
     
 # Resultados
