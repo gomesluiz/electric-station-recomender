@@ -101,6 +101,7 @@ def calcularDistancia (lat_ref,lon_ref, lat_posto, lon_posto):
   )
   return distancia 
 ```
+As duas funções acima fazer parte da fórmula de Haversine para cálculo de distancias.
 
 ```python
 def menor(listaDePostos):
@@ -114,6 +115,7 @@ def menor(listaDePostos):
   #print("LISTA AUXILIAR", auxiliar)
   return (idByIndice)
 ```
+Função me retorna o posto mais próximo baseado na lista de postos que recebe como parametro.
 
 ```python
 def calcularposto(latitude_ref,longitude_ref):
@@ -145,6 +147,7 @@ def calcularposto(latitude_ref,longitude_ref):
   #return print(distancia1,distancia2,distancia3,distancia4 )
   return menor([distancia1,distancia2,distancia3,distancia4,distancia5,distancia6,distancia7,distancia8,distancia9,distancia10,distancia11,distancia12,distancia13,distancia14,distancia15,distancia16,distancia17,distancia18,distancia19,distancia20,distancia21,distancia22,distancia23,distancia24,distancia25]) # Passando lista de postos como argumento
 ```
+Funcao recebe latitude e longitude como parametro e faz o uso da formula de Haversine declarada nas funções anteriores, dessa maneira tem se uma lista na saída com os calculos das distancias da localizacao passada ate cada posto.
 
 ```python
 class MF(nn.Module):
@@ -163,6 +166,7 @@ class MF(nn.Module):
         v = self.item_emb(v)
         return (u*v).sum(1)  # taking the dot product
 ```
+Essa funcao é onde se constrói a Matriz de Fatoração, utilizada na filtragem colaborativa
 
 ```python
 def train_epocs(model, epochs=10, lr=0.01, wd=0.0):
@@ -181,6 +185,7 @@ def train_epocs(model, epochs=10, lr=0.01, wd=0.0):
         print(loss.item())
     test(model)
 ```
+Função de treinamento do modelo. Em cada iteração, a função de treinamento está atualizando nosso modelo para abordar um MSE menor (erro quadrático médio). Esta é a ideia da descida gradiente.
 
 ```python
 def test(model):
@@ -192,6 +197,7 @@ def test(model):
     loss = F.mse_loss(y_hat, ratings)
     print("test loss %.3f " % loss.item()) 
 ```
+E por fim a funcao de teste que é utilizada dentro da funcao de treinamento como pode observar a ultima linha, é ela quem testa e nos dá o percentual de perda.
 
 # Resultados
 
