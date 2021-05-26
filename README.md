@@ -251,6 +251,31 @@ Todas as etapas da figura:
   
 # Resultados
 
+Para usuários com histórico de dados
+
+	Usuário ID: 3
+	Postos Recomendados por filtragem colaborativa ID: [3, 2, 19, 18, 15, 20, 14, 11, 17, 1]
+	Posto mais proximo é: 3
+	Posto com maior afinidade: 11.0
+.
+
+	Usuário ID: 27
+	Postos Recomendados por filtragem colaborativa ID: [2, 19, 3, 17, 15, 18, 20, 13, 11, 14]
+	Posto mais proximo é: 3
+	Posto com maior afinidade: 5.0
+	
+Para usuários sem histórico de dados
+	
+	Usuário ID: 41
+	Usuário sem histórico para recomendação por filtragem colaborativa e por afinidade, será recomendado o posto mais próximo
+	Posto mais proximo é: 3
+	
+Para postos sem informações de abastecimento, neste caso o posto 25
+
+	Usuário ID: 42
+	Usuário sem histórico para recomendação por filtragem colaborativa e por afinidade, será recomendado o posto mais próximo
+	Posto mais proximo é: 25
+
 # Tecnologias
 
 
