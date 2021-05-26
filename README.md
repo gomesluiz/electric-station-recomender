@@ -21,18 +21,15 @@ Este repositório contém os arquivos para execução do projeto desenvolvido em
 
 # Tabela de Conteúdo
 Encontra-se nesse repositório 3 arquivos .csv são eles:
-
 informacoes_carro.csv
 posto.csv
-
 abastecimentossimexc.csv
 
 Encontra-se também 1 arquivo .ipynb 
-
 TDFinal.ipynb
 
 Também encontra-se neste repositório 1 arquivo .pdf:
--artigoFinal.pdf
+artigoFinal.pdf
 
 # Instalação
 Não é necessário nenhuma instalação na maquina, basta apenas criar um notebook no Google Colab.
