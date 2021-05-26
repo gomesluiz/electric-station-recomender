@@ -83,11 +83,15 @@ posto                      | Recebe o posto com maior afinidade daquele motorist
 prox                       | Variavel que calcula o posto mais proximo da localizacao
 
 # Tabela de Funcoes
-Funcoes
-------------------:
+
 ```def converterGrausParaRad(numero):
     rad = (numero/180)*math.pi
     return rad  
+```
+```python
+def post_detail(request, pk):
+    post = get_object_or_404(Post, pk=pk)
+    return render(request, 'blog/post_detail.html', {'post': post})
 ```
     
 # Resultados
