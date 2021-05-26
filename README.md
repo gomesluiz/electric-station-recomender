@@ -85,9 +85,9 @@ prox                       | Variavel que calcula o posto mais proximo da locali
 # Tabela de Funcoes
 Funcoes  | Descricao
 -------- | ----------:
-def converterGrausParaRad(numero):
+(def converterGrausParaRad(numero):
     rad = (numero/180)*math.pi
-    return rad  
+    return rad  )
     
 # Resultados
 
