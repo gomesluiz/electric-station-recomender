@@ -221,6 +221,21 @@ A recomendação utilizando a filtragem colaborativa, por ela pertencer a uma re
 Após essa montagem da matriz a rede neural também atribui pesos a essas notas para conseguir encontrar a similaridade, após isso a rede faz o treinamento e teste, então o modelo fica pronto, somente após o modelo estar pronto que é possível recomendar os postos para determinado usuário.
 
 ![alt text](https://github.com/Gabrielgsn30/SistemaRecomendador/blob/main/img/fig4.png)
+
+Todas as etapas da figura:
+	1
+	2
+	3
+	4
+	5
+		5.1
+		5.2
+		5.3
+	6.
+	7.
+	8.
+	9.
+  
 # Resultados
 
 # Tecnologias
