@@ -1,8 +1,7 @@
 # Sistema Recomendador
 Uma Abordagem Aplicável de Deep Learning para Sistemas Recomendadores baseado em Geolocalização
 
-Com a crescente disseminação de informações e dados, muito em decorrer do avanço tecnológico que estamos passando, surge à necessidade de sugerir conteúdos para seus usuários, levando isso para um contexto de geolocalização, os motoristas, por exemplo, tem a necessidade de saber onde se encontra e onde se localiza postos de abastecimentos próximos a sua geolocalização. 
-Neste contexto surge o problema de motoristas terem um sistema recomendador, baseado na sua localização e outras preferências. Na cidade de Poços de Caldas, está inserido o projeto Poços + Inteligente, onde, um dos seus pontos, será a implantação de postos de abastecimentos, para carros elétricos, e assim surgiu a necessidade da recomendação para motoristas de carros elétricos, que por meio de um aplicativo haverá um Sistema Recomendador baseado em determinadas regras e preferências para se fazer a recomendação.
+Com o avanço tecnológico, a necessidade de sugerir conteúdos geolocalizados cresce. Os motoristas precisam saber onde se encontram e localizar postos de abastecimento próximos. Nesse contexto, o problema de ter um sistema recomendador para motoristas, baseado em localização e preferências, torna-se evidente. Em Poços de Caldas, o projeto Poços + Inteligente planeja implantar postos para carros elétricos. Com isso, surgiu a necessidade de um Sistema Recomendador, acessível por aplicativo, que ofereça recomendações baseadas em regras e preferências específicas.
 
 <!--ts-->
    * [Sistema Recomendador](#Sistema-Recomendador)
